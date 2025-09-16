@@ -18,7 +18,7 @@
         "qr": "https://raw.githubusercontent.com/FireLestics/MaiyakArticules/refs/heads/main/04402.png"
     },
     {
-        "name": "Апельсин фасовка, кг",
+        "name": "Апельсины фасовка, кг",
         "code": "10013380",
         "posCode": "0",
         "qr": "https://raw.githubusercontent.com/FireLestics/MaiyakArticules/refs/heads/main/10013380.png"
@@ -28,12 +28,6 @@
         "code": "51980",
         "posCode": "20",
         "qr": "https://raw.githubusercontent.com/FireLestics/MaiyakArticules/refs/heads/main/51980.png"
-    },
-    {
-        "name": "Арахис очищенный вес",
-        "code": "10014839",
-        "posCode": "0",
-        "qr": "https://raw.githubusercontent.com/FireLestics/MaiyakArticules/refs/heads/main/10014839.png"
     },
     {
         "name": "Арбуз, кг",
@@ -54,13 +48,13 @@
         "qr": "https://raw.githubusercontent.com/FireLestics/MaiyakArticules/refs/heads/main/18496.png"
     },
     {
-        "name": "Виноград белый Премиум, кг",
+        "name": "Виноград Белый Премиум, кг",
         "code": "80738",
         "posCode": "63",
         "qr": "https://raw.githubusercontent.com/FireLestics/MaiyakArticules/refs/heads/main/80738.png"
     },
     {
-        "name": "Виноград Дамские пальчики",
+        "name": "Виноград Джамские пальчики",
         "code": "90167",
         "posCode": "60",
         "qr": "https://raw.githubusercontent.com/FireLestics/MaiyakArticules/refs/heads/main/90167.png"
@@ -84,19 +78,19 @@
         "qr": "https://raw.githubusercontent.com/FireLestics/MaiyakArticules/refs/heads/main/16017.png"
     },
     {
-        "name": "Виноград чёрный, кг",
+        "name": "Виноград черный, кг",
         "code": "81058",
         "posCode": "67",
         "qr": "https://raw.githubusercontent.com/FireLestics/MaiyakArticules/refs/heads/main/81058.png"
     },
     {
-        "name": "Виноград чёрный Дамские Пальчики",
+        "name": "Виноград черный Дамские пальчики",
         "code": "10009720",
         "posCode": "0",
         "qr": "https://raw.githubusercontent.com/FireLestics/MaiyakArticules/refs/heads/main/10009720.png"
     },
     {
-        "name": "Виноград Чёрный Киш-Миш, кг",
+        "name": "Виноград Черный Киш-миш, кг",
         "code": "117537",
         "posCode": "68",
         "qr": "https://raw.githubusercontent.com/FireLestics/MaiyakArticules/refs/heads/main/117537.png"
@@ -104,20 +98,20 @@
     {
         "name": "Гранат, кг",
         "code": "133864",
-        "posCode": "35",
+        "posCode": "5",
         "qr": "https://raw.githubusercontent.com/FireLestics/MaiyakArticules/refs/heads/main/133864.png"
     },
     {
-        "name": "Грейпфрут, кг",
+        "name": "Грейфрут, кг",
         "code": "109041",
         "posCode": "32",
         "qr": "https://raw.githubusercontent.com/FireLestics/MaiyakArticules/refs/heads/main/109041.png"
     },
     {
         "name": "Грецкий орех очищенный вес",
-        "code": "166325",
+        "code": "116325",
         "posCode": "0",
-        "qr": "https://raw.githubusercontent.com/FireLestics/MaiyakArticules/refs/heads/main/166325.png"
+        "qr": "https://raw.githubusercontent.com/FireLestics/MaiyakArticules/refs/heads/main/116325.png"
     },
     {
         "name": "Груша Аббат, кг",
@@ -130,5 +124,383 @@
         "code": "18666",
         "posCode": "31",
         "qr": "https://raw.githubusercontent.com/FireLestics/MaiyakArticules/refs/heads/main/18666.png"
+    },
+    {
+        "name": "Груша желтая КНР, кг",
+        "code": "47205",
+        "posCode": "30",
+        "qr": "https://raw.githubusercontent.com/FireLestics/MaiyakArticules/refs/heads/main/47205.png"
+    },
+    {
+        "name": "Груша Конференция, кг",
+        "code": "45180",
+        "posCode": "28",
+        "qr": "https://raw.githubusercontent.com/FireLestics/MaiyakArticules/refs/heads/main/45180.png"
+    },
+    {
+        "name": "Груша Пакхам, кг",
+        "code": "49702",
+        "posCode": "81",
+        "qr": "https://raw.githubusercontent.com/FireLestics/MaiyakArticules/refs/heads/main/49702.png"
+    },
+    {
+        "name": "Груша Ред Анжу, кг",
+        "code": "10009268",
+        "posCode": "0",
+        "qr": "https://raw.githubusercontent.com/FireLestics/MaiyakArticules/refs/heads/main/10009268.png"
+    },
+    {
+        "name": "Груша Форель, кг",
+        "code": "65718",
+        "posCode": "0",
+        "qr": "https://raw.githubusercontent.com/FireLestics/MaiyakArticules/refs/heads/main/65718.png"
+    },
+    {
+        "name": "",
+        "code": "74377",
+        "posCode": "51",
+        "qr": "https://raw.githubusercontent.com/FireLestics/MaiyakArticules/refs/heads/main/74377.png"
+    },
+    {
+        "name": "",
+        "code": "44777",
+        "posCode": "52",
+        "qr": "https://raw.githubusercontent.com/FireLestics/MaiyakArticules/refs/heads/main/44777.png"
+    },
+    {
+        "name": "",
+        "code": "85545",
+        "posCode": "36",
+        "qr": "https://raw.githubusercontent.com/FireLestics/MaiyakArticules/refs/heads/main/85545.png"
+    },
+    {
+        "name": "Капуста б/к свежий урожай",
+        "code": "116898",
+        "posCode": "7",
+        "qr": "https://raw.githubusercontent.com/FireLestics/MaiyakArticules/refs/heads/main/116898.png"
+    },
+    {
+        "name": "Капуста Брокколи, кг",
+        "code": "114707",
+        "posCode": "0",
+        "qr": "https://raw.githubusercontent.com/FireLestics/MaiyakArticules/refs/heads/main/114707.png"
+    },
+    {
+        "name": "Капуста Краснокочанная, кг",
+        "code": "118673",
+        "posCode": "58",
+        "qr": "https://raw.githubusercontent.com/FireLestics/MaiyakArticules/refs/heads/main/118673.png"
+    },
+    {
+        "name": "Картофель желтый отборный, кг",
+        "code": "10013015",
+        "posCode": "0",
+        "qr": "https://raw.githubusercontent.com/FireLestics/MaiyakArticules/refs/heads/main/10013015.png"
+    },
+    {
+        "name": "Картофель красный отборный, кг",
+        "code": "10013019",
+        "posCode": "0",
+        "qr": "https://raw.githubusercontent.com/FireLestics/MaiyakArticules/refs/heads/main/10013019.png"
+    },
+    {
+        "name": "Картофель фасовка сетка, кг",
+        "code": "10015429",
+        "posCode": "0",
+        "qr": "https://raw.githubusercontent.com/FireLestics/MaiyakArticules/refs/heads/main/10015429.png"
+    },
+    {
+        "name": "Кешью сушеный, кг",
+        "code": "46309",
+        "posCode": "0",
+        "qr": "https://raw.githubusercontent.com/FireLestics/MaiyakArticules/refs/heads/main/46309.png"
+    },
+    {
+        "name": "Киви бабочка, кг",
+        "code": "04430",
+        "posCode": "33",
+        "qr": "https://raw.githubusercontent.com/FireLestics/MaiyakArticules/refs/heads/main/04430.png"
+    },
+    {
+        "name": "Лайм, кг",
+        "code": "28296",
+        "posCode": "83",
+        "qr": "https://raw.githubusercontent.com/FireLestics/MaiyakArticules/refs/heads/main/28296.png"
+    },
+    {
+        "name": "Лимон, кг",
+        "code": "134582",
+        "posCode": "16",
+        "qr": "https://raw.githubusercontent.com/FireLestics/MaiyakArticules/refs/heads/main/134582.png"
+    },
+    {
+        "name": "Лук Репчатый, кг",
+        "code": "117081",
+        "posCode": "4",
+        "qr": "https://raw.githubusercontent.com/FireLestics/MaiyakArticules/refs/heads/main/117081.png"
+    },
+    {
+        "name": "Лук Репчатый красный, кг",
+        "code": "116622",
+        "posCode": "85",
+        "qr": "https://raw.githubusercontent.com/FireLestics/MaiyakArticules/refs/heads/main/116622.png"
+    },
+    {
+        "name": "Лук Репчатый фасовка сетка, кг",
+        "code": "192072",
+        "posCode": "0",
+        "qr": "https://raw.githubusercontent.com/FireLestics/MaiyakArticules/refs/heads/main/192072.png"
+    },
+    {
+        "name": "Манго Египет, кг",
+        "code": "10013437",
+        "posCode": "0",
+        "qr": "https://raw.githubusercontent.com/FireLestics/MaiyakArticules/refs/heads/main/10013437.png"
+    },
+    {
+        "name": "Манго, кг",
+        "code": "04407",
+        "posCode": "0",
+        "qr": "https://raw.githubusercontent.com/FireLestics/MaiyakArticules/refs/heads/main/04407.png"
+    },
+    {
+        "name": "Мандарин фасованный, кг",
+        "code": "10018575",
+        "posCode": "0",
+        "qr": "https://raw.githubusercontent.com/FireLestics/MaiyakArticules/refs/heads/main/10018575.png"
+    },
+    {
+        "name": "Мандарин ЮАР, кг",
+        "code": "10027449",
+        "posCode": "0",
+        "qr": "https://raw.githubusercontent.com/FireLestics/MaiyakArticules/refs/heads/main/10027449.png"
+    },
+    {
+        "name": "Миндаль сушеный, кг",
+        "code": "166435",
+        "posCode": "0",
+        "qr": "https://raw.githubusercontent.com/FireLestics/MaiyakArticules/refs/heads/main/166435.png"
+    },
+    {
+        "name": "Морковь мытая, кг",
+        "code": "94411",
+        "posCode": "6",
+        "qr": "https://raw.githubusercontent.com/FireLestics/MaiyakArticules/refs/heads/main/94411.png"
+    },
+    {
+        "name": "Морковь, кг",
+        "code": "10009280",
+        "posCode": "0",
+        "qr": "https://raw.githubusercontent.com/FireLestics/MaiyakArticules/refs/heads/main/10009280.png"
+    },
+    {
+        "name": "Нектарин жёлтый КНР, кг",
+        "code": "10055565",
+        "posCode": "0",
+        "qr": "https://raw.githubusercontent.com/FireLestics/MaiyakArticules/refs/heads/main/10055565.png"
+    },
+    {
+        "name": "Нектарин Импорт, кг",
+        "code": "10009227",
+        "posCode": "0",
+        "qr": "https://raw.githubusercontent.com/FireLestics/MaiyakArticules/refs/heads/main/10009227.png"
+    },
+    {
+        "name": "Нектарин КНР, кг",
+        "code": "88314",
+        "posCode": "105",
+        "qr": "https://raw.githubusercontent.com/FireLestics/MaiyakArticules/refs/heads/main/88314.png"
+    },
+    {
+        "name": "Нектарин Средняя Азия, кг",
+        "code": "10009266",
+        "posCode": "0",
+        "qr": "https://raw.githubusercontent.com/FireLestics/MaiyakArticules/refs/heads/main/10009266.png"
+    },
+    {
+        "name": "Огурцы Машенька, кг",
+        "code": "131759",
+        "posCode": "0",
+        "qr": "https://raw.githubusercontent.com/FireLestics/MaiyakArticules/refs/heads/main/131759.png"
+    },
+    {
+        "name": "Огурцы Мева, кг",
+        "code": "10006586",
+        "posCode": "0",
+        "qr": "https://raw.githubusercontent.com/FireLestics/MaiyakArticules/refs/heads/main/10006586.png"
+    },
+    {
+        "name": "Перец красный, кг",
+        "code": "10020535",
+        "posCode": "0",
+        "qr": "https://raw.githubusercontent.com/FireLestics/MaiyakArticules/refs/heads/main/10020535.png"
+    },
+    {
+        "name": "Персик Импорт, кг",
+        "code": "87130",
+        "posCode": "130",
+        "qr": "https://raw.githubusercontent.com/FireLestics/MaiyakArticules/refs/heads/main/87130.png"
+    },
+    {
+        "name": "Персик инжирный, кг",
+        "code": "75043",
+        "posCode": "0",
+        "qr": "https://raw.githubusercontent.com/FireLestics/MaiyakArticules/refs/heads/main/75043.png"
+    },
+    {
+        "name": "Питахайя, кг",
+        "code": "87377",
+        "posCode": "0",
+        "qr": "https://raw.githubusercontent.com/FireLestics/MaiyakArticules/refs/heads/main/87377.png"
+    },
+    {
+        "name": "Помело, кг",
+        "code": "10022002",
+        "posCode": "0",
+        "qr": "https://raw.githubusercontent.com/FireLestics/MaiyakArticules/refs/heads/main/10022002.png"
+    },
+    {
+        "name": "Редька Дайкон, кг",
+        "code": "90187",
+        "posCode": "0",
+        "qr": "https://raw.githubusercontent.com/FireLestics/MaiyakArticules/refs/heads/main/90187.png"
+    },
+    {
+        "name": "Свекла, кг",
+        "code": "10013024",
+        "posCode": "0",
+        "qr": "https://raw.githubusercontent.com/FireLestics/MaiyakArticules/refs/heads/main/10013024.png"
+    },
+    {
+        "name": "Слива Кабардинка, кг",
+        "code": "10009961",
+        "posCode": "0",
+        "qr": "https://raw.githubusercontent.com/FireLestics/MaiyakArticules/refs/heads/main/10009961.png"
+    },
+    {
+        "name": "Слива красная, кг",
+        "code": "105163",
+        "posCode": "0",
+        "qr": "https://raw.githubusercontent.com/FireLestics/MaiyakArticules/refs/heads/main/105163.png"
+    },
+    {
+        "name": "Слива Медовая, кг",
+        "code": "166518",
+        "posCode": "100",
+        "qr": "https://raw.githubusercontent.com/FireLestics/MaiyakArticules/refs/heads/main/166518.png"
+    },
+    {
+        "name": "Слива Стенлей, кг",
+        "code": "127966",
+        "posCode": "0",
+        "qr": "https://raw.githubusercontent.com/FireLestics/MaiyakArticules/refs/heads/main/127966.png"
+    },
+    {
+        "name": "Томаты тепличные Россия, кг",
+        "code": "10006587",
+        "posCode": "0",
+        "qr": "https://raw.githubusercontent.com/FireLestics/MaiyakArticules/refs/heads/main/10006587.png"
+    },
+    {
+        "name": "Тыква, кг",
+        "code": "129710",
+        "posCode": "0",
+        "qr": "https://raw.githubusercontent.com/FireLestics/MaiyakArticules/refs/heads/main/129710.png"
+    },
+    {
+        "name": "Тыква бутылочная, кг",
+        "code": "136251",
+        "posCode": "0",
+        "qr": "https://raw.githubusercontent.com/FireLestics/MaiyakArticules/refs/heads/main/136251.png"
+    },
+    {
+        "name": "Фундук сушеный, кг",
+        "code": "17759",
+        "posCode": "0",
+        "qr": "https://raw.githubusercontent.com/FireLestics/MaiyakArticules/refs/heads/main/17759.png"
+    },
+    {
+        "name": "Чеснок, кг",
+        "code": "185050",
+        "posCode": "0",
+        "qr": "https://raw.githubusercontent.com/FireLestics/MaiyakArticules/refs/heads/main/185050.png"
+    },
+    {
+        "name": "Яблоки Белый Налив, кг",
+        "code": "100141",
+        "posCode": "0",
+        "qr": "https://raw.githubusercontent.com/FireLestics/MaiyakArticules/refs/heads/main/100141.png"
+    },
+    {
+        "name": "Яблоки Гала, кг",
+        "code": "10004162",
+        "posCode": "0",
+        "qr": "https://raw.githubusercontent.com/FireLestics/MaiyakArticules/refs/heads/main/10004162.png"
+    },
+    {
+        "name": "Яблоки Голден, кг",
+        "code": "43886",
+        "posCode": "21",
+        "qr": "https://raw.githubusercontent.com/FireLestics/MaiyakArticules/refs/heads/main/43886.png"
+    },
+    {
+        "name": "Яблоки Гренни Смит, кг",
+        "code": "43904",
+        "posCode": "23",
+        "qr": "https://raw.githubusercontent.com/FireLestics/MaiyakArticules/refs/heads/main/43904.png"
+    },
+    {
+        "name": "Яблоки Женева (Краснодар), кг",
+        "code": "30805",
+        "posCode": "93",
+        "qr": "https://raw.githubusercontent.com/FireLestics/MaiyakArticules/refs/heads/main/30805.png"
+    },
+    {
+        "name": "Яблоки Крипс Пинк, кг",
+        "code": "87784",
+        "posCode": "0",
+        "qr": "https://raw.githubusercontent.com/FireLestics/MaiyakArticules/refs/heads/main/87784.png"
+    },
+    {
+        "name": "Яблоки первая цена, кг",
+        "code": "10014784",
+        "posCode": "0",
+        "qr": "https://raw.githubusercontent.com/FireLestics/MaiyakArticules/refs/heads/main/10014784.png"
+    },
+    {
+        "name": "Яблоки Свежий урожай, кг",
+        "code": "170324",
+        "posCode": "0",
+        "qr": "https://raw.githubusercontent.com/FireLestics/MaiyakArticules/refs/heads/main/170324.png"
+    },
+    {
+        "name": "Яблоки Стаканчик, кг",
+        "code": "57147",
+        "posCode": "0",
+        "qr": "https://raw.githubusercontent.com/FireLestics/MaiyakArticules/refs/heads/main/57147.png"
+    },
+    {
+        "name": "Яблоки фасованные, кг",
+        "code": "10014169",
+        "posCode": "0",
+        "qr": "https://raw.githubusercontent.com/FireLestics/MaiyakArticules/refs/heads/main/10014169.png"
+    },
+    {
+        "name": "Яблоки Фуши, кг",
+        "code": "11307",
+        "posCode": "0",
+        "qr": "https://raw.githubusercontent.com/FireLestics/MaiyakArticules/refs/heads/main/11307.png"
+    },
+    {
+        "name": "Яблоко Красное, кг",
+        "code": "10015874",
+        "posCode": "0",
+        "qr": "https://raw.githubusercontent.com/FireLestics/MaiyakArticules/refs/heads/main/10015874.png"
+    },
+    {
+        "name": "Яблоко Рождественское, кг",
+        "code": "10027234",
+        "posCode": "0",
+        "qr": "https://raw.githubusercontent.com/FireLestics/MaiyakArticules/refs/heads/main/10027234.png"
     }
 ]
